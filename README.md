@@ -2,5 +2,5 @@
 
 
 - 🔭 id: donot
-- 🌱 email: donot@donot.me
+- 🌱 email: donot#donot.me
 
